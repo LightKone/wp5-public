@@ -1,0 +1,21 @@
+[submodule "software/Legion"]
+	path = software/Legion
+	url = https://github.com/albertlinde/Legion
+[submodule "software/GRiSP/grisp"]
+	path = software/GRiSP/grisp
+	url = https://github.com/grisp/grisp
+[submodule "software/GRiSP/rebar3_grisp"]
+	path = software/GRiSP/rebar3_grisp
+	url = https://github.com/grisp/rebar3_grisp
+[submodule "software/Yggdrasil"]
+	path = software/Yggdrasil
+	url = https://github.com/LightKone/Yggdrasil-devel
+[submodule "software/Lasp/Partisan"]
+	path = software/Lasp/Partisan
+	url = https://github.com/lasp-lang/partisan.git
+[submodule "software/Lasp/Types"]
+	path = software/Lasp/Types
+	url = https://github.com/lasp-lang/types.git
+[submodule "software/Lasp/lasp"]
+	path = software/Lasp/lasp
+	url = https://github.com/lasp-lang/lasp.git
